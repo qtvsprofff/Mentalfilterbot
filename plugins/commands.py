@@ -24,13 +24,13 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
-            InlineKeyboardButton('⚡ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ⚡', url='https://t.me/qtmve_linkzZ'),
-            InlineKeyboardButton('⚡ ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ ⚡', url='https://t.me/+5zdnXfOqEEwxNjQ1')
+            InlineKeyboardButton('⚡ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ⚡', url='https://t.me/SAM_DUB_LEZHa'),
+            InlineKeyboardButton('⚡ ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ ⚡', url='https://t.me/SAM_DUB_LEEZZA')
         ], [
             InlineKeyboardButton('‼️ ʜᴇʟᴘ ‼️', callback_data='help'),
             InlineKeyboardButton('📬 ᴀʙᴏᴜᴛ ᴍᴇ 📬', callback_data='about')
         ], [
-            InlineKeyboardButton('🌈 ᴄʀᴇᴀᴛᴏʀ 🌈', url='https://t.me/MR_X_MIRROR')
+            InlineKeyboardButton('🌈 ᴄʀᴇᴀᴛᴏʀ 🌈', url='https://t.me/SMD_Owner')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply(script.START_TXT.format(message.from_user.mention if message.from_user else message.chat.title, temp.U_NAME, temp.B_NAME), reply_markup=reply_markup)
@@ -47,13 +47,13 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
-            InlineKeyboardButton('⚡ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ⚡', url='https://t.me/qtmve_linkzZ'),
-            InlineKeyboardButton('⚡ ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ ⚡', url='https://t.me/+5zdnXfOqEEwxNjQ1')
+            InlineKeyboardButton('⚡ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ⚡', url='https://t.me/SAM_DUB_LEZHa'),
+            InlineKeyboardButton('⚡ ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ ⚡', url='https://t.me/SAM_DUB_LEEZZA')
         ], [
             InlineKeyboardButton('‼️ ʜᴇʟᴘ ‼️', callback_data='help'),
             InlineKeyboardButton('📬 ᴀʙᴏᴜᴛ ᴍᴇ 📬', callback_data='about')
         ], [
-            InlineKeyboardButton('🌈 ᴄʀᴇᴀᴛᴏʀ 🌈', url='https://t.me/MR_X_MIRROR')
+            InlineKeyboardButton('🌈 ᴄʀᴇᴀᴛᴏʀ 🌈', url='https://t.me/SMD_Owner')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -95,13 +95,13 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
-            InlineKeyboardButton('⚡ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ⚡', url='https://t.me/qtmve_linkzZ'),
-            InlineKeyboardButton('⚡ ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ ⚡', url='https://t.me/+5zdnXfOqEEwxNjQ1')
+            InlineKeyboardButton('⚡ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ⚡', url='https://t.me/SAM_DUB_LEZHa'),
+            InlineKeyboardButton('⚡ ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ ⚡', url='https://t.me/SAM_DUB_LEEZZA')
         ], [
             InlineKeyboardButton('‼️ ʜᴇʟᴘ ‼️', callback_data='help'),
             InlineKeyboardButton('📬 ᴀʙᴏᴜᴛ ᴍᴇ 📬', callback_data='about')
         ], [
-            InlineKeyboardButton('🌈 ᴄʀᴇᴀᴛᴏʀ 🌈', url='https://t.me/MR_X_MIRROR')
+            InlineKeyboardButton('🌈 ᴄʀᴇᴀᴛᴏʀ 🌈', url='https://t.me/SMD_Owner')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -251,7 +251,7 @@ async def start(client, message):
         chat_id=message.from_user.id,
         file_id=file_id,
         caption=f_caption,
-        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('❤️️JOIN❤️️', url='https://t.me/qtmve_linkzZ') ] ] ),
+        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('🎋𝐒𝐡𝐚𝐫𝐞 𝐔𝐬❤‍🔥', url='https://t.me/SAM_DUB_LEZHa') ] ] ),
         protect_content=True if pre == 'filep' else False,
         )
                     
