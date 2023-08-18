@@ -11,32 +11,32 @@ def is_enabled(value, default):
         return default
 
 class script(object):
-    HOME_BUTTONURL_UPDATES = environ.get("HOME_BUTTONURL_UPDATES", 'https://t.me/qtmve_linkzZ')
+    HOME_BUTTONURL_UPDATES = environ.get("HOME_BUTTONURL_UPDATES", 'https://t.me/SAM_DUB_LEZHa')
     START_TXT = environ.get("START_TXT", '''<b>ʜᴇʏ... {}
     
-ᴍʏ ɴᴀᴍᴇ ɪs <a href=http://t.me/qtmvefilrer_bot><b>ᴍᴀᴅᴀɴ ᴏᴘ x ꜰɪʟᴛᴇʀ ʙᴏᴛ</b></a>
+ᴍʏ ɴᴀᴍᴇ ɪs <a href=http://t.me/SAM_OWN_ROBOT><b>ᴍᴀᴅᴀɴ ᴏᴘ x ꜰɪʟᴛᴇʀ ʙᴏᴛ</b></a>
 
 ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs/sᴇʀɪᴇs ᴀɴᴅ ʟᴏᴛ ᴍᴏʀᴇ... ᴅᴏɴ'ᴛ ᴡᴀsᴛᴇ ʏᴏᴜʀ ᴛɪᴍᴇ ʙʏ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ.. ᴀᴅᴅ & ᴇɴᴊᴏʏ ᴍᴇʜ ᴘᴏᴡᴇʀ
 
-ᴍᴀᴅᴇ ᴡɪᴛʜ ❤️ ʙʏ <a href=https://t.me/MR_X_MIRROR><b>ᴍʀ x ᴍɪʀʀᴏʀ</b></a></b>''')
+ᴍᴀᴅᴇ ᴡɪᴛʜ ❤️ ʙʏ <a href=https://t.me/SMD_Owner><b>ᴍʀ x ᴍɪʀʀᴏʀ</b></a></b>''')
     HELP_TXT = """ʜᴇʏ {}
 ʜᴇʀᴇ ɪꜱ ᴍʏ ᴄᴏᴍᴍᴀɴᴅꜱ."""
     ABOUT_TXT = """<b>
 ╭────[ About Meh ]────⍟
 │
-├⍟ Meh Name : <a href=http://t.me/qtmvefilrer_bot><b>ᴍᴀᴅᴀɴ ᴏᴘ x ꜰɪʟᴛᴇʀ ʙᴏᴛ</b></a>
-├⍟ Owner : <a href=https://t.me/Owner_of_qtmve><b>ᴠᴀɪʀᴀᴍᴜᴛʜᴜ</b></a>
+├⍟ Meh Name : <a href=http://t.me/SAM_OWN_ROBOT><b>ᴍᴀᴅᴀɴ ᴏᴘ x ꜰɪʟᴛᴇʀ ʙᴏᴛ</b></a>
+├⍟ Owner : <a href=https://t.me/SMD_Owner><b>ᴠᴀɪʀᴀᴍᴜᴛʜᴜ</b></a>
 ├⍟ Version : ᴍʀ x 3.1 [ Stable ]
-├⍟ Server : <a href=https://t.me/MR_X_MIRROR><b>ᴍʀ x sᴇʀᴠᴇʀ</b></a>
+├⍟ Server : ! GOOPAAL
 ├⍟ Language : ᴘʏᴛʜᴏɴ 3
 ├⍟ Framework : ᴘʏʀᴏɢʀᴀᴍ
-├⍟ Developer : <a href=https://t.me/MR_X_MIRROR><b>ᴍʀ x ᴍɪʀʀᴏʀ</b></a>
-├⍟ Powered By  : <a href=https://t.me/Owner_of_qtmve><b>ᴍᴀᴅᴀɴ ᴏᴘ</b></a>
+├⍟ Developer : <a href=https://t.me/SMD_Owner><b>ᴍʀ x ᴍɪʀʀᴏʀ</b></a>
+├⍟ Powered By  : <a href=https://t.me/SAM_DUB_LEZHa><b>ᴍᴀᴅᴀɴ ᴏᴘ</b></a>
 │
 ╰─────────────────────⍟<b>"""
     SOURCE_TXT = """<b>𝐂𝐫𝐞𝐚𝐭𝐞 𝐎𝐧𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬 💗
 » ɪ ᴡɪʟʟ ᴄʀᴇᴀᴛᴇ ᴀ ʙᴏᴛ ꜰᴏʀ ʏᴏᴜ
-» ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ @MR_X_MIRROR</b>"""
+» ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ @SMD_Owner</b>"""
     MANUELFILTER_TXT = """ʜᴇʟᴩ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 
 • ꜰɪʟᴛᴇʀ ɪꜱ ᴛʜᴇ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -61,7 +61,7 @@ class script(object):
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/MR_X_MIRROR)</code>
+<code>[Button Text](buttonurl:https://t.me/SMD_Owner)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -122,11 +122,11 @@ This module only works for my admins
 <b>᚛› 𝐆𝐫𝐨𝐮𝐩 ⪼ {}(<code>{}</code>)</b>
 <b>᚛› 𝐓𝐨𝐭𝐚𝐥 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 ⪼ <code>{}</code></b>
 <b>᚛› 𝐀𝐝𝐝𝐞𝐝 𝐁𝐲 ⪼ {}</b>
-<b>᚛› 𝐌𝐚𝐝𝐚𝐧 𝐎𝐏 𝐗 𝐅𝐢𝐥𝐭𝐞𝐫 𝐁𝐨𝐭 </b>
+<b>᚛› 𝐐𝐭𝐯𝐬𝐨𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐟𝐢𝐥𝐭𝐞𝐫 </b>
 """
     LOG_TEXT_P = """#𝐍𝐞𝐰𝐔𝐬𝐞𝐫-new 
     
 <b>᚛› 𝐈𝐃⚡ - <code>{}</code></b>
 <b>᚛› 𝐍𝐚𝐦𝐞⚡ - {}</b>
-<b>᚛› 𝐌𝐚𝐝𝐚𝐧 𝐎𝐏 𝐗 𝐅𝐢𝐥𝐭𝐞𝐫 𝐁𝐨𝐭 </b>
+<b>᚛› 𝐐𝐭𝐯𝐬𝐨𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐟𝐢𝐥𝐭𝐞𝐫 </b>
 """
