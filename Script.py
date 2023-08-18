@@ -88,7 +88,7 @@ class script(object):
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of @qtmvefilrer_bot
+these are the extra features of @SAM_OWN_ROBOT
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specified user.</code>
