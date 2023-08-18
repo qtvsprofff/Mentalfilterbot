@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://telegra.ph/file/c951141d507c09cd264cd.jpg" alt="MR X FILTER BOT">
+  <img src="https://telegra.ph/file/dabdaa1fc0810483ee7ba.jpg" alt="Qtvsofficial">
 </p>
 <h1 align="center">
-  <b> MR X FILTER BOT </b>
+  <b> Qtvsofficial </b>
 </h1>
 
 
